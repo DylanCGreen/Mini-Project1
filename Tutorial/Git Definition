@@ -1,1 +1,3 @@
 #create Git Definition 
+
+Git was created by Linus Torvalds to address one issue; all current source code management utilities required constant connection to a central computer to collaborate on code. Linus fixed this by allowing users to upload code that could be downloaded, worked on, then re-uploaded to the same central computer with a detailed note of what changed AND could be reverted to any previous version starting at the first commit. Pretty cool huh? 
